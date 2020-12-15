@@ -1,13 +1,13 @@
 # Rain Prediction using Logistic Regression
 
-## Problem statement
+## Problem Statement
 This project is to answer the question that whether or not it will rain tomorrow in Australia using Logistic Regression with Python and Scikit-Learn.
 
 To answer the question, I build a classifier to predict whether or not it will rain tomorrow in Australia by training a binary classification model using Logistic Regression. I have used the Rain in Australia dataset downloaded from the Kaggle website for this project.
 
 The Python implementation is presented in the Jupyter notebook
 
-## Dataset description
+## Dataset Description
 
 I have used the Rain in Australia data set downloaded from the Kaggle website.
 
